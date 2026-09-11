@@ -1,0 +1,9 @@
+algorithm_variant,total_pareto_points
+moccp_1_0.5,102
+moccp_0.8_0.8,83
+moccp_0.8_1,77
+moccp_1_0.8,66
+moccp_1_1,55
+moccp_0.5_0.5,49
+moccp_0.5_1,36
+amoa,12
